@@ -15,7 +15,7 @@ IDE: Visual Studio 2019
 ## Release History
 
 * 1.0.0
-    * first
+    * first commit
     * 실습 완료
 
 ## Meta
